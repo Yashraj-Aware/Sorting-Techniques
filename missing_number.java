@@ -1,5 +1,5 @@
 // Find the missing number int the given range of the distinct numbers -----> majorly by cyclic sort
-import java.util.Arrays;
+
 public class missing_number {
     public static void main(String[] args) {
         int [] arr = {3,0,1};
